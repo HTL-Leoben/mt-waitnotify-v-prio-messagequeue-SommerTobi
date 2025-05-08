@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/mt-waitnotify-v-prio-messagequeue-SommerTobi.iml" filepath="$PROJECT_DIR$/.idea/mt-waitnotify-v-prio-messagequeue-SommerTobi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prio-messagequeue/prio-messagequeue.iml" filepath="$PROJECT_DIR$/prio-messagequeue/prio-messagequeue.iml" />
+    </modules>
+  </component>
+</project>
